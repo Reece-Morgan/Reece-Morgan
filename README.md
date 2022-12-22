@@ -2,7 +2,7 @@
 
 I am a Front End Web Developer, with 4+ years professional experience working as a developer/engineer. I'm also an indie game developer, building and releasing games under [Allus Interactive](https://github.com/AllusInteractive)
 
-I currently work at [The Football Pools](http://www.thepools.com/) as a Software Engineer in the Front End Developement Team.
+I currently work at [The Football Pools](http://www.thepools.com/) as a Software Engineer in the Front End Development Team.
 
 ---
 
