@@ -1,15 +1,15 @@
 ### Hello there 👋 I'm Reece!
 
-I am a Front End Web Developer, with 4+ years professional experience working as a developer/engineer. I'm also an indie game developer, building and releasing games under [Allus Interactive](https://github.com/Allus-Interactive)
+I am a Front End Web Developer, with 5+ years professional experience working as a developer, using frameworks such as Angular, React and NextJS. I'm also an indie game developer, building and releasing games under [Allus Interactive](https://github.com/Allus-Interactive)
 
-I currently work at [The Football Pools](http://www.thepools.com/) as a Software Engineer in the Front End Development Team.
+I currently work at [The Football Pools](http://www.thepools.com/) as a Senior Software Engineer in the Front End Development Team.
 
 ---
 
 Use the links below to view my portfolio and find me on social media:
-- [My Portfolio](https://www.reecemorgan.co.uk "reecemorgan.co.uk")
+- [My Portfolio](https://www.reecemorgan.co.uk "www.reecemorgan.co.uk")
 - [Twitter](https://twitter.com/reecemorgandev "Twitter")
-- [LinkedIn](https://www.linkedin.com/in/reece-morgan-dev/)
+- [LinkedIn](https://www.linkedin.com/in/reece-morgan-dev/ "LinkedIn")
 
 These links are for my work as Allus Interactive 
 - [Allus Interactive](https://www.allusinteractive.com "Allus Interactive")
