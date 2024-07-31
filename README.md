@@ -1,8 +1,8 @@
 ### Hello there 👋 I'm Reece!
 
-I am a Front End Web Developer, with 6+ years professional experience working with frameworks such as NextJs and Angular. I'm also an indie game developer, building and releasing games under [Allus Interactive](https://github.com/Allus-Interactive)
+I am a Front End Web Developer, with 6+ years professional experience working with frameworks such as NextJs and React. I'm also an indie game developer, building and releasing games under [Allus Interactive](https://github.com/Allus-Interactive)
 
-I currently work at [The Football Pools](http://www.thepools.com/) as a Senior Software Engineer in the Front End Development Team.
+<!--I currently work at [The Football Pools](http://www.thepools.com/) as a Senior Software Engineer in the Front End Development Team.-->
 
 ---
 
