@@ -14,13 +14,12 @@ Use the links below to view my portfolio and find me on social media:
 ---
 
 These links are for my work as Allus Interactive 
-- [Allus Interactive](https://www.allusinteractive.com "Allus Interactive")
+- [Allus Interactive](https://allusinteractive.vercel.app/ "Allus Interactive")
 - [itch.io](https://allusinteractive.itch.io "My itch.io Page")
 
 And I'm on Social Media as Allus Interactive as well! 
 - [Twitter/X](https://twitter.com/AllusGameDev "Twitter or X")
 - [Instagram](https://www.instagram.com/allusinteractive/ "Instagram")
-- [Facebook](https://www.facebook.com/AllusInteractive/ "Facebook")
 
 <!--
 **Reece-Morgan/Reece-Morgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
